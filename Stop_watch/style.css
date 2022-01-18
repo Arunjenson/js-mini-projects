@@ -1,0 +1,36 @@
+body{
+    background-color: #358597;
+    font-family: sans-serif;
+    height:100%;
+
+}
+.wrapper{
+    width: 800px;
+    margin: 30px auto;
+    height: 500px;
+    color: white;
+    text-align: center;
+    /* border: 1px solid black; */
+}
+h1,h2{
+    font-family: Roboto;
+    font-weight: 100;
+    font: size 2.6em;
+    text-transform:uppercase;
+}
+#seconds,#tens{
+    font-size: 2em;
+}
+button{
+    background-color: #358597;
+    color: white;
+    border: 5px solid #f4a896;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 2.2em;
+    padding: 18px 10px;
+    width:180px;
+    margin:10px;
+    outline:nonw;
+
+}
