@@ -10,6 +10,8 @@ Count-Down_Clock https://arunjenson.github.io/js-mini-projects/Count-Down_Clock/
 
 Stop Watch https://arunjenson.github.io/js-mini-projects/Stop_watch/
 
+Drum Kit https://arunjenson.github.io/js-mini-projects/Drum-Kit/
+
 
 
 
